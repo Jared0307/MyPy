@@ -1,4 +1,4 @@
-# MyPy: Conjunto de Scripts Python
+# MyPy: SCRIPTS EN PYTHON
 
 ## 🚀 ¿Qué es MyPy?
 
@@ -26,11 +26,10 @@ En un mundo lleno de herramientas complejas, MyPy se destaca por su enfoque mini
    ```
 2. **Navega a la carpeta del proyecto:
 
-```bash
-cd MyPy
-```
-3.
-4. **Revisa los scripts y empieza a usarlos:
+   ```bash
+   cd MyPy
+   ```
+3. **Revisa los scripts y empieza a usarlos:
 
 Explora los diferentes scripts en el repositorio. Cada uno está diseñado para ser ejecutado de manera independiente.
 
