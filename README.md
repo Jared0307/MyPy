@@ -24,12 +24,12 @@ En un mundo lleno de herramientas complejas, MyPy se destaca por su enfoque mini
    ```bash
    git clone https://github.com/Jared0307/MyPy.git
    ```
-2. **Navega a la carpeta del proyecto:
+2. **Navega a la carpeta del proyecto:**
 
    ```bash
    cd MyPy
    ```
-3. **Revisa los scripts y empieza a usarlos:
+3. **Revisa los scripts y empieza a usarlos:**
 
 Explora los diferentes scripts en el repositorio. Cada uno está diseñado para ser ejecutado de manera independiente.
 
